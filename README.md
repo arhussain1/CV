@@ -1,13 +1,18 @@
-## Your Name
+<h1> Abdul Rehman Hussain </h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
 
-## Projects
+I am a junior full stack web developer. One who enjoys learning about new software and technology like Computer Aided Design(CAD), Photoshop and Hatch embroidery software to name a few. I am also interested in building and fixing computers (my current project: Macbook air).
+ 
+I began my coding journey by completing beginner courses on Codecademy and doing basic challenges on codewars (8 and 7 Kyu Katas). Since then, I have recently completed an intensive 16 week software developer course at Makers Academy, in which I have worked in teams to create web applications. I am now continuing this journey by beginning new projects in a variety of different tech stacks.
+
+## <h2 id="projects">Projects</h2>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Tom's Escape](https://github.com/arhussain1/toms-escape-game) | A single page point and click game | React, CSS, MongoDB, Node, Express |
+| [Makersbnb](https://github.com/arhussain1/makersbnb) | An airbnb clone made using Ruby and sinatra| Ruby, Sinatra, PostgreSQL |
+| [Acebook](https://github.com/arhussain1/acebook-node-template) | A Facebook clone made using JavaScript | JavaScript, Express, Node, CSS, Handlebars, MongoDB |
 
 ## Work Experience
 
