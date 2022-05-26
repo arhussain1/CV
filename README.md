@@ -16,15 +16,22 @@ I began my coding journey by completing beginner courses on Codecademy and doing
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Lawrence Beds LTD** (2020 to 2021)  
+_product development_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Designed a new mattress core using CAD (Computer Aided Design) software to finalise measurements for all components
+- Communicated with members from our supply chain to create custom polyester structures and to ensure adequate quality
+- Communicated with our customers to gain feedback on any improvements. 
+- Identified a weakness in our central support section, to fix this I added a tensioned support layer coupled with adhesive for added weight distribution.
+- Upskilled myself by learning Hatch Embroidery software, I used this alongside my photoshop knowledge to create new designs, bringing them from concept, to prototyping and through to production.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Amazon** (2019 to 2020)  
+_FC Associate_
 
-- Any experience relevent to software development
+- Began my journey by being trained in packing, ensuring all customer orders are fulfilled in a timely manner and to a high quality.
+- Regularly contacted my manager to request further training and more responsibility.
+- Continuously began being trained in multiple areas, within 6 months I received training in 5 different positions.
+- My favourite role involved managing over 25 other associates and ensuring they were supplied with everything they needed to do their jobs, a demanding role requiring me to be organised and efficient to avoid delays
 
 ## Skills
 
