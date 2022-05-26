@@ -1,6 +1,6 @@
 <h1> Abdul Rehman Hussain </h1>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
+[Projects](#projects) | [Work Experience](#work) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
 
 I am a junior full stack web developer. One who enjoys learning about new software and technology like Computer Aided Design(CAD), Photoshop and Hatch embroidery software to name a few. I am also interested in building and fixing computers (my current project: Macbook air).
  
@@ -14,7 +14,7 @@ I began my coding journey by completing beginner courses on Codecademy and doing
 | [Makersbnb](https://github.com/arhussain1/makersbnb) | An airbnb clone made using Ruby and sinatra| Ruby, Sinatra, PostgreSQL |
 | [Acebook](https://github.com/arhussain1/acebook-node-template) | A Facebook clone made using JavaScript | JavaScript, Express, Node, CSS, Handlebars, MongoDB |
 
-## Work Experience
+## <h2 id="work">Work Experience</h2>
 
 **Lawrence Beds LTD** (2020 to 2021)  
 _product development_
