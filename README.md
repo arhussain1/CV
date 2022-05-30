@@ -35,6 +35,10 @@ _FC Associate_
 
 ## Skills
 
+### Strong communicator
+<p>I enjoy helping and teaching others and over the past few months I had so many opportunities to do this. During my final project, I was tasked with developing the backend using express and node js to store player scores for our game. I would regularly need to teach other members of the team how it worked. I taught them using a calm and slow approach while also asking questions to keep my partners engaged. As a result, I successfully explained to three other team members how the backend works and how they can recreate it themselves.
+</p>
+
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
