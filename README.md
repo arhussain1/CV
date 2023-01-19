@@ -31,34 +31,6 @@ Let’s Do This is your go-to source for finding, reviewing and booking the best
 <p>I enjoy helping and teaching others and over the past few months I had so many opportunities to do this. During my final project, I was tasked with developing the backend using express and node js to store player scores for our game. I would regularly need to teach other members of the team how it worked. I taught them using a calm and slow approach while also asking questions to keep my partners engaged. As a result, I successfully explained to three other team members how the backend works and how they can recreate it themselves.
 </p>
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (Jan 2022 - May 2022)
