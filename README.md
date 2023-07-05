@@ -28,7 +28,12 @@ Let’s Do This is your go-to source for finding, reviewing and booking the best
 ## Skills
 
 ### Strong communicator
-<p>I enjoy helping and teaching others and over the past few months I had so many opportunities to do this. During my final project, I was tasked with developing the backend using express and node js to store player scores for our game. I would regularly need to teach other members of the team how it worked. I taught them using a calm and slow approach while also asking questions to keep my partners engaged. As a result, I successfully explained to three other team members how the backend works and how they can recreate it themselves.
+<p>I enjoy helping and teaching others, during Makers, I had so many opportunities to do this. During my final project, I was tasked with developing the backend using express and node js to store player scores for our game. I would regularly need to teach other members of the team how it worked. I taught them using a calm and slow approach while also asking questions to keep my partners engaged. As a result, I successfully explained to three other team members how the backend works and how they can recreate it themselves.
+</p>
+
+### Team player
+<p>
+I put effort into developing strong relationships with my team, at Let's Do This even as a junior I always pushed to tackle complicated tickets to help my team meet our deadlines. At Distributed, I noticed my manager struggling to solve an issue with a third-party tool integration which was crucial to the business, I decided to debug this problem in my own time and after finding a solution I implemented this, I recovered the lost data from our sandbox environment and helped to restore the lost functionality.
 </p>
 
 ## Education
@@ -47,4 +52,4 @@ Skills gained:
 - Aerospace Engineering
 - 2.1
 
-- I completed two projects involving research, writing reports, learning Computational Fluid Dynamics software.
+- I completed two projects involving research, writing reports, and learning Computational Fluid Dynamics software.
