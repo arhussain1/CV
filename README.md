@@ -16,6 +16,17 @@ I am looking to work with a passionate and driven team, to solve complex problem
 
 ## <h2 id="work">Work Experience</h2>
 
+**Distributed** (Apr 2023 to Jul 2023) - 3 Month Contract
+I joined Distributed as a member of the Continuous Improvement team during a 3-month contract. My goals were to aid in converting data visualization requests into visuals using SQL and to support the team and the wider business to achieve their goals.
+
+- Currently, I am implementing a Hashmap and a recursive solution to identify all descendant children of a given parent efficiently, showcasing significant progress in software engineering skills within the first year.
+
+- Developed multiple advanced SQL queries and utilized QuickSight to create key performance indicator metrics, enabling informed decision-making for future projects.
+
+- Proactively expanded skill set by becoming proficient in Salesforce development, including creating custom components within a month.
+
+- Took the initiative to develop a CI deployment pipeline outside of regular responsibilities, which was presented to the CTO for implementation. This initiative led to improved security and efficiency for custom code in Salesforce.
+
 **Let's Do This** (Jun 2022 to Jan 2023)  
 Let’s Do This is your go-to source for finding, reviewing and booking the best endurance sport events across the world. Whether you’re looking for your first 5k or your 10th Ironman, we’re the best place to find your next challenge.
 
