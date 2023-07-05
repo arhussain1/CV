@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Work Experience](#work) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
 
-I am a junior full stack web developer. One who enjoys learning about new software and technology like Computer Aided Design(CAD), Photoshop and Hatch embroidery software to name a few. I am also interested in building and fixing computers (my current project: Macbook air).
- 
-I began my coding journey by completing beginner courses on Codecademy and doing basic challenges on codewars (8 and 7 Kyu Katas). Since then, I have recently completed an intensive 16 week software developer course at Makers Academy, in which I have worked in teams to create web applications. I am now continuing this journey by beginning new projects in a variety of different tech stacks.
+I am a Full Stack Software Engineer. I have professional experience working in JavaScript, TypeScript, Node, React(Next.js) and SQL. After working for two start ups I have become adaptable and efficient in learning new languages, within my first month at Distributed I became proficient in creating complex SQL queries using joins and aggregate functions, in addition, I became the main point of contact for all Salesforce queries learning Apex programming to automate complex tasks.
+
+I am looking to work with a passionate and driven team, to solve complex problems and continue learning and developing my career.
 
 ## <h2 id="projects">Projects</h2>
 
